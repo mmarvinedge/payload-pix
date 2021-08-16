@@ -26,7 +26,7 @@ public class Main {
 
     public static void main(String[] args) throws WriterException, IOException {
         Payload pay = new Payload();
-        pay.params.setPixKey("+5538999474355");
+        pay.params.setPixKey("marvinedge@live.com");
         pay.params.setDescription("Pagamento do pedido 123");
         pay.params.setMerchantName("Marvin Edge");
         pay.params.setMerchantCity("DIVINOPOLIS");
